@@ -8,6 +8,3 @@ Python practice programs from Kiran Academy.
 3. Odd or Even
 4. Voting Eligibility
 5. Anagram
-
-## How to run
-python filename.py
